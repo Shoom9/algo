@@ -1,8 +1,9 @@
 <html>
-	<title>Школа боевых искусств</title>
-	<body>
-		<header>Шапка</header>
-		<main>Основная информация</main>
-		<footer>Подвал</footer>
-	</body>
+    <img src="..." height="30px"/><a href="...">Завести рептилию</a>
+    <h1 style="background-color:palegreen">Экзотический зоопарк</h1>
+    <p>Приглашаем посетить наш зоопарк, чтобы увидеть редких змей, ящериц, пауков и африканских ежей и многих других животных.</p>
+    <p style="background-color:palegreen"><img src="..." height="80px"/>
+    <img src="..." height="80px"/>
+    <img src="..." height="80px"/></p>
+    <p>Адрес: город Зверинск, ул. Зелёная, 15</p>
 </html>
